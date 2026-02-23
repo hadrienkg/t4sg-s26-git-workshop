@@ -1,0 +1,5 @@
+1. Git is the local version control system, allowing the user to track code/version changes, while GitHub is a cloud-based software where developers can collaboratively deal with version control and store code in hosted repositories.
+2. Version control is important because it allows developers to track their changes in their projects, as well as create separate workflows for collaboration with different features.
+3. To view a branch's commit history, use git log.
+4. To list all the branches in your local repository, use git branch. To list all the branches in the remote repository, use git branch -r.
+5. To prevent specific files and folders from being commited to a repository, you should create a .gitignore file, where you can list the specific files/folders that you don't want to be included in your commits to the repository.
